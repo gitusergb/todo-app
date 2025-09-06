@@ -1,6 +1,6 @@
 # Todo Web Application
 
-**Created by: Shree**  
+**Created by: Gauri Bidwai**  
 *Open for collaboration - contributions welcome!*
 
 A full-stack Todo List application with user authentication, role-based access control, and comprehensive admin dashboard for task and user management.
@@ -252,7 +252,7 @@ npm start  # React development server with hot reload
 
 ## Contact & Support
 
-**Creator**: Shree  
+**Creator**:  https://github.com/gitusergb 
 **Status**: Open for collaboration
 
 Feel free to reach out for questions, suggestions, or collaboration opportunities!
