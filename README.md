@@ -1,7 +1,6 @@
 # Todo Web Application
 
 **Created by: Gauri Bidwai**  
-*Open for collaboration - contributions welcome!*
 
 A full-stack Todo List application with user authentication, role-based access control, and comprehensive admin dashboard for task and user management.
 
@@ -231,24 +230,6 @@ npm start  # React development server with hot reload
    ```bash
    git push origin feature/your-feature-name
    ```
-7. **Submit a pull request** with a clear description of your changes
-
-### Areas for Contribution
-
-- 🐛 Bug fixes and improvements
-- ✨ New features and enhancements
-- 📚 Documentation improvements
-- 🎨 UI/UX enhancements
-- 🧪 Test coverage improvements
-- 🔧 Performance optimizations
-
-### Development Guidelines
-
-- Follow existing code style and conventions
-- Write clear, descriptive commit messages
-- Add comments for complex logic
-- Test your changes before submitting
-- Update documentation if needed
 
 ## Contact & Support
 
