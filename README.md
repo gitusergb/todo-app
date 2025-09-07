@@ -151,8 +151,8 @@ To create an admin account, register a new user and manually update their role i
 ```javascript
 // In MongoDB shell or compass
 db.users.updateOne(
-  { email: "admin@example.com" },
-  { $set: { role: "admin" } }
+  { email: "admint@gmail.com" },
+  { $set: { role: "Admint@1234" } }
 )
 ```
 
